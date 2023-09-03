@@ -1,0 +1,9 @@
+body {
+    background-image: url("https://www.perfectstock.ru/files/preview/1280x854/1b903acebffe33b43507885600bdf8db-l-21583943161acimheplneteldmacsbdfjg9ufbhdu6nx1tjmawvggo0powvgnczhdfwax6el6bim2lfdy1eemd7l1bmjnubqqnmupej2dttrpxe.jpg");
+    background-size: 100vw 100vh;
+}
+
+.game-card {
+    height: 100vh;
+    font-family: 'Gill Sans', sans-serif;
+}
